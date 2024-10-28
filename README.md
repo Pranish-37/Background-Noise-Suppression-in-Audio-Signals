@@ -1,6 +1,13 @@
 # Background-Noise-Suppression-in-Audio-Signals
 This project aims to enhance audio quality in communication systems by tackling the common problem of background noise. Our approach uses Variational Mode Decomposition (VMD), Signal-to-Noise Ratio (SNR) estimation, and the Short-Time Fourier Transform (STFT) to deliver a real-time noise suppression solution. By leveraging both traditional and advanced signal processing techniques, this project provides a customizable and scalable model adaptable to various environments, from video conferencing to telecommunication.
 
+## Table of Contents
+- [Abstract](#Abstract)
+- [Related Work](#Related-Work)
+- [Proposed Methodology](#Proposed_Methodology)
+- [Implementation](#Implementation)
+- [Results](#Results)
+
 # Abstract
 We propose a dynamic algorithm that integrates modern signal processing and machine learning techniques to address background noise suppression in audio communication. Our evaluations show significant improvements in Signal-to-Noise Ratio (SNR), speech intelligibility, and overall perceptual quality over existing technologies. Designed for real-time processing, this project is adaptable to a range of applications, aiming to enhance professional communication quality.
 
